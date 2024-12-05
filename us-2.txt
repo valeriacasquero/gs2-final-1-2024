@@ -1,0 +1,7 @@
+PROCESO DE DESARROLLO DE UN PROYECTO USANDO SCRUM
+ ROLES:STAKEHOLDER, SCRUM MASTER, EQUIPO, CLIENTE.
+ ARTEFACTOS: SCRUM BACKLOG, SPRINT BACKLOG.
+ CEREMONIAS: DAILY, PLANNING, REVIEW, RETROSPECTIVE, REFINAMIENTO.
+ El Scrum master lo que realiza en el proyecto es la direccion del mismo, es el intermediario entre el equipo 
+ y el cliente, es como un lider del equipo, se encargar de dirigir, de asignar las tareas, de ayudar, es como 
+ el soporte de su equipo.

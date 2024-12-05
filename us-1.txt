@@ -1,0 +1,3 @@
+DOS TIPOS DE REQUISITOS 
+DISEÑO diseñar el proyecto que voy a desarrollar, que requisitos debe tener, como y para que.
+ IMPLEMENTACION llevar a cabo ese diseño previo a resultados, ponerlo en codigos, ejecutarlo.

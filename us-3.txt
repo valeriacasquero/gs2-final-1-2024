@@ -1,0 +1,7 @@
+Las historias de usuario descripciones breves de requisitos funcionales expresadas en el lenguaje del usuario.
+Ayudan a los equipos de desarrollo a comprender los objetivos del cliente y las funcionalidades requeridas.
+Un caso de uso es una metodología que se utiliza para identificar, organizar y aclarar los requisitos de un sistema. 
+Es una herramienta que describe el comportamiento de un software o sistema, 
+y que se basa en un conjunto de secuencias de interacciones entre los usuarios y el sistema
+En sintesis las historias son las descripciones de los requisitos y el caso de uso son las herramientas de secuencias de
+interacciones para llevarlas a cabo.
